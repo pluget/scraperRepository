@@ -1,0 +1,2 @@
+spigetResources.json filter=lfs diff=lfs merge=lfs -text
+spigetVersions.json filter=lfs diff=lfs merge=lfs -text
